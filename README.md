@@ -28,7 +28,7 @@ This plugin contains three examples patterns for you to check out, ranging from 
 
 ### River Gallery with Text
 
-![article-introduction](https://user-images.githubusercontent.com/2846578/77936648-34c69a80-7281-11ea-8c17-74063118242c.png)
+![river-gallery-with-text](https://user-images.githubusercontent.com/2846578/77939696-8d983200-7285-11ea-8699-ccffed67241c.png)
 
 - Column block
   - 33% column with spacer bock, large image, and an image resized to 25%
